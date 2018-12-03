@@ -1023,5 +1023,5 @@ while repeated == nil {
 }
 
 
-
-
+print(frequency)
+print(repeated ?? 0)
